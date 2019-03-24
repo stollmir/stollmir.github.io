@@ -1,0 +1,13 @@
+
+body{
+    background-color: rgb(0, 255, 55);
+}
+
+#myHeader, h2, a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5em;
+    background-color: 	rgb(247, 46, 203);
+    color: rgb(179, 255, 0);
+    padding: 1%;
+    text-align: center;
+  } 
